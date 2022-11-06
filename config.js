@@ -123,8 +123,8 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Weather',
-			icon: 'Weather',
-			link: 'https://wttr.in/',
+			icon: 'thermometer-sun',
+			link: 'https://www.theweathernetwork.com/ca/36-hour-weather-forecast/ontario/ottawa',
 		},
 	],
 
